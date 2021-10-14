@@ -14,10 +14,10 @@ def function1(n1,a) :
           index = i
           print("Index of",n1,"is",index)
           break
-
  if n1 > a[length-1]:
     index = length
     print("Index of",n1,"is",index)
+    
 function1(n1,a)
           
           
